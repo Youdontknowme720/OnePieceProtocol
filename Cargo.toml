@@ -1,0 +1,8 @@
+[package]
+name = "OnePieceProtocol"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+log = "0.4.34"
+anyhow = "1.0.104"
